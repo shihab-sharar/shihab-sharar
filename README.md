@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Shihab Sharar 👋
 
-<!--
-**shihab-sharar/shihab-sharar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE Undergrad | Competitive Programmer | C, C++ | DSA ⚡
 
-Here are some ideas to get you started:
+Practicing competitive programming, building projects, and honing problem-solving skills.  
+Aspiring software engineer and future tech entrepreneur passionate about creating impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Skills
+
+- **Languages:** C, C++
+- **Algorithms & Data Structures:** Sorting, Graphs, Trees, DP, CP problem-solving
+- **Tools & Platforms:** Git, GitHub, LeetCode, Codeforces, CodeChef
+- **Other:** Web development basics, portfolio projects
+
+---
+
+## 🔹 Competitive Programming
+
+- Solved **150+ problems** on LeetCode, Codeforces, and CodeChef
+- Codeforces handle: [shihab_sharar](https://codeforces.com/profile/shihab_sharar)
+- LeetCode profile: [shihab-sharar](https://leetcode.com/shihab-sharar)
+- CodeChef profile: [shihab_sharar](https://www.codechef.com/users/shihab_sharar)
+
+---
+
+## 🔹 Connect with Me
+
+- LinkedIn: [md-shihab-sharar](https://linkedin.com/in/md-shihab-sharar)  
+- GitHub: [shihab-sharar](https://github.com/shihab-sharar)  
+
+---
+
+## ⚡ Vision
+- Aspiring software engineer building meaningful projects  
+- Passionate about creating technology that solves real-world problems
