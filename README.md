@@ -1,6 +1,6 @@
 # Hi, I'm Shihab Sharar 👋
 
-CSE Undergrad | Competitive Programmer | C, C++ | DSA ⚡
+CSE Undergrad | Competitive Programmer | C, C++, Python | DSA ⚡
 
 Practicing competitive programming, building projects, and honing problem-solving skills.  
 Aspiring software engineer and future tech entrepreneur passionate about creating impactful solutions.
@@ -9,7 +9,7 @@ Aspiring software engineer and future tech entrepreneur passionate about creatin
 
 ## 🔹 Skills
 
-- **Languages:** C, C++
+- **Languages:** C, C++, Python
 - **Algorithms & Data Structures:** Sorting, Graphs, Trees, DP, CP problem-solving
 - **Tools & Platforms:** Git, GitHub, LeetCode, Codeforces, CodeChef
 - **Other:** Web development basics, portfolio projects
@@ -18,7 +18,7 @@ Aspiring software engineer and future tech entrepreneur passionate about creatin
 
 ## 🔹 Competitive Programming
 
-- Solved **150+ problems** on LeetCode, Codeforces, and CodeChef
+- Solved **250+ problems** on LeetCode, Codeforces, and CodeChef
 - Codeforces handle: [shihab_sharar](https://codeforces.com/profile/shihab_sharar)
 - LeetCode profile: [shihab-sharar](https://leetcode.com/shihab-sharar)
 - CodeChef profile: [shihab_sharar](https://www.codechef.com/users/shihab_sharar)
