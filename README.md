@@ -18,7 +18,7 @@ Aspiring software engineer and future tech entrepreneur passionate about creatin
 
 ## 🔹 Competitive Programming
 
-- Solved **250+ problems** on LeetCode, Codeforces, and CodeChef
+- Solved **350+ problems** on LeetCode, Codeforces, and CodeChef
 - Codeforces handle: [shihab_sharar](https://codeforces.com/profile/shihab_sharar)
 - LeetCode profile: [shihab-sharar](https://leetcode.com/shihab-sharar)
 - CodeChef profile: [shihab_sharar](https://www.codechef.com/users/shihab_sharar)
